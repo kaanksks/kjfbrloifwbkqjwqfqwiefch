@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../_DataURI"
+		},
+		{
+			"path": "../fonts.googleapis.com"
+		},
+		{
+			"path": "../fonts.gstatic.com"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cryptoice.vercel.app"
+	}
+}
